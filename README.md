@@ -36,7 +36,7 @@ Apache Flink + Apache Kafka + Apache NiFi
 
 # Must Read Articles
 
-* 
+* https://docs.cloudera.com/cdf-datahub/7.2.1/flink-kudu-analysis/topics/cdf-datahub-flink-kudu-use-case.html
 
 # Conference Talks
 
