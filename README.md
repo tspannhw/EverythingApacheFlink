@@ -16,6 +16,7 @@ Apache Flink + Apache Kafka + Apache NiFi
 
 # Flink SQL
 
+* https://ci.apache.org/projects/flink/flink-docs-stable/dev/table/sql/queries.html
 * https://ci.apache.org/projects/flink/flink-docs-stable/dev/table/sql/
 * https://www.datainmotion.dev/2021/04/cloudera-sql-stream-builder-ssb-updated.html
 * https://flink.apache.org/2020/07/28/flink-sql-demo-building-e2e-streaming-application.html
