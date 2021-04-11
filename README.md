@@ -14,6 +14,39 @@ Apache Flink + Apache Kafka + Apache NiFi
 
 * http://caito-200-ok.com/
 
+# Flink SQL
+
+* https://ci.apache.org/projects/flink/flink-docs-stable/dev/table/sql/
+* https://www.datainmotion.dev/2021/04/cloudera-sql-stream-builder-ssb-updated.html
+* https://flink.apache.org/2020/07/28/flink-sql-demo-building-e2e-streaming-application.html
+* https://www.cloudera.com/campaign/modern-stream-processing-using-streaming-sql.html?internal_Democra=SEC&internal_campaign=FY22-Q1_CC_AMER_Streaming%20SQL_WP-HP-_2021-03-15&cid=7012H000001hNS5QAM&internal_link=h01
+* https://docs.cloudera.com/csa/1.3.0/ssb-using-ssb/topics/csa-ssb-using-virtual-tables.html
+https://docs.cloudera.com/csa/1.3.0/ssb-overview/topics/csa-ssb-intro.html
+https://docs.cloudera.com/csa/1.3.0/ssb-overview/topics/csa-ssb-key-features.html
+https://docs.cloudera.com/csa/1.3.0/ssb-overview/topics/csa-ssb-architecture.html
+https://docs.cloudera.com/csa/1.3.0/ssb-quickstart/topics/csa-ssb-quickstart.html
+https://docs.cloudera.com/csa/1.3.0/ssb-using-ssb/topics/csa-ssb-adding-kafka-data-source.html
+https://docs.cloudera.com/csa/1.3.0/ssb-using-ssb/topics/csa-ssb-using-virtual-tables.html
+https://docs.cloudera.com/csa/1.3.0/ssb-using-ssb/topics/csa-ssb-creating-virtual-kafka-source.html
+https://docs.cloudera.com/csa/1.3.0/ssb-using-ssb/topics/csa-ssb-creating-virtual-kafka-sink.html
+https://docs.cloudera.com/csa/1.3.0/ssb-using-ssb/topics/csa-ssb-creating-virtual-webhook-sink.html
+https://docs.cloudera.com/csa/1.3.0/ssb-using-ssb/topics/csa-ssb-managing-time.html
+https://docs.cloudera.com/csa/1.3.0/ssb-job-lifecycle/topics/csa-ssb-running-job-process.html
+https://docs.cloudera.com/csa/1.3.0/ssb-job-lifecycle/topics/csa-ssb-job-management.html
+https://docs.cloudera.com/csa/1.3.0/ssb-job-lifecycle/topics/csa-ssb-sampling-data.html
+https://docs.cloudera.com/csa/1.3.0/ssb-job-lifecycle/topics/csa-ssb-advanced-job-management.html
+https://docs.cloudera.com/csa/1.3.0/ssb-using-mv/topics/csa-ssb-using-mvs.html
+https://www.cloudera.com/content/www/en-us/about/events/webinars/cloudera-sqlstream-builder.html
+https://www.cloudera.com/about/events/webinars/demo-jam-live-expands-nifi-kafka-flink.html
+https://www.cloudera.com/about/events/virtual-events/cloudera-emerging-technology-day.html
+*
+
+
+
+# Unorganized
+
+
+
 # Install
 
 * 
