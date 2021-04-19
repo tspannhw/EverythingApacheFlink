@@ -40,6 +40,11 @@ https://docs.cloudera.com/csa/1.3.0/ssb-using-mv/topics/csa-ssb-using-mvs.html
 https://www.cloudera.com/content/www/en-us/about/events/webinars/cloudera-sqlstream-builder.html
 https://www.cloudera.com/about/events/webinars/demo-jam-live-expands-nifi-kafka-flink.html
 https://www.cloudera.com/about/events/virtual-events/cloudera-emerging-technology-day.html
+https://www.alibabacloud.com/blog/four-billion-records-per-second-stream-batch-integration-implementation-of-alibaba-cloud-realtime-compute-for-apache-flink-during-double-11_596962
+https://www.alibabacloud.com/blog/why-did-alibaba-choose-apache-flink-anyway_595190
+https://medium.com/walmartglobaltech/what-makes-apache-flink-scale-317f642fe6d5
+https://www.datanami.com/2018/04/30/how-netflix-optimized-flink-for-massive-scale-on-aws/
+https://www.alibabacloud.com/blog/lyfts-large-scale-flink-based-near-real-time-data-analytics-platform_596674
 *
 
 
