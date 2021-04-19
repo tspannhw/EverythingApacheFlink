@@ -45,7 +45,7 @@ https://www.alibabacloud.com/blog/why-did-alibaba-choose-apache-flink-anyway_595
 https://medium.com/walmartglobaltech/what-makes-apache-flink-scale-317f642fe6d5
 https://www.datanami.com/2018/04/30/how-netflix-optimized-flink-for-massive-scale-on-aws/
 https://www.alibabacloud.com/blog/lyfts-large-scale-flink-based-near-real-time-data-analytics-platform_596674
-*
+* https://docs.cloudera.com/csa/1.3.0/stormflink-migration/topics/csa-stormflink-architecture.html
 
 
 
